@@ -1,8 +1,13 @@
-p {
+jazz {
     display: block;
     /*width: 0px;*/
     margin: 25px auto;
     font: 15px Monaco,"Courier New","DejaVu Sans Mono","Bitstream Vera Sans Mono",monospace;
+  }
+  egg {
+    display: block;
+    margin: 25px auto;
+    font: 15px Comic;
   }
   a:visited {
    color: blue
