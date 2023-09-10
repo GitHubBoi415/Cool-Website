@@ -1,1 +1,0 @@
-setBackdropURL('./images/outerspace.jpg')
